@@ -19,6 +19,8 @@ https://sbeveshi.github.io/NSDUH-project/<filename>.html
 For example:
 `https://sbeveshi.github.io/NSDUH-project/rq3_forest.html`
 
+You may also download the interactive charts and open them in your browser.
+
 ## Research Questions and Charts
 
 ### RQ1 — How do rates of AMI, SUD, and co-occurrence vary across demographic groups?
